@@ -8,9 +8,11 @@
   border: 20px solid purple;
   padding: 20px;
   margin: 20px;
-} 
+}
 
 .box-two {
-  background-color: blue;
-  border: 0 solid yellow;
-} 
+  background-color: green;
+  border: 20px solid yellow;
+  padding: 20px;
+  margin: 20px;
+}
